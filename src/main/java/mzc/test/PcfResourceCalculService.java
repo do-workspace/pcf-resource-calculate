@@ -186,6 +186,13 @@ public class PcfResourceCalculService {
             }
         } catch (IOException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                input.close();
+                bufferedReader.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
         return jsonObject;
     }
