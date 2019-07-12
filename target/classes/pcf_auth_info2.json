@@ -1,0 +1,22 @@
+{
+  "pcf_admin_info": [
+    {
+      "api": "https://api.sys.dppcf.posco.co.kr",
+      "username": "pcfadmin",
+      "password": "pcfposco!!"
+    },
+    {
+      "api": "https://api.sys.dkpcf.posco.co.kr",
+      "username": "pcfadmin",
+      "password": "pcfposco!!"
+    },
+    {
+      "api": "https://api.sys.leedh.posco.co.kr",
+      "username": "admin",
+      "password": "XrUGwt0krgsWqku1Lk5O_-ND_FrB0HLK"
+    }
+  ]
+
+
+
+}
