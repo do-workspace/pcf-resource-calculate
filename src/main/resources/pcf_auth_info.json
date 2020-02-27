@@ -17,6 +17,12 @@
       "api": "cf_domain",
       "username": "cf_username",
       "password": "cf_password"
+    },
+    {
+      "env": "cf_alias_name",
+      "api": "cf_domain",
+      "username": "cf_username",
+      "password": "cf_password"
     }
   ]
 }
